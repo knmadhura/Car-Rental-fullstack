@@ -11,7 +11,7 @@ import Dashboard from './pages/owner/Dashboard';
 import AddCar from './pages/owner/AddCar';
 import ManageCars from './pages/owner/ManageCars';
 import ManageBookings from './pages/owner/ManageBookings';
-import Login from './components/Login';
+import Login from './components/Login.jsx';
 import {Toaster} from 'react-hot-toast';
 import { useAppContext } from './context/AppContext.jsx';
 
